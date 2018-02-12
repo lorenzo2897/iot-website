@@ -74,6 +74,9 @@ h3 {
 .container li {
   font-size: 18pt;
 }
+footer li {
+  font-size: 14pt !important;
+}
 
 .fill-screen {
   min-height: 90vh;
